@@ -1,6 +1,9 @@
 ### Mario Antolinez Herrera
 ## Telecommunication Tecnologies Engineering Undergrad. Student
 
+### Motivation
+In an aim to contribute to the progress and welfare of society, the crop of knowledge and the yield of quality services.  
+
 You can use the [editor on GitHub](https://github.com/marioantolinezh/portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 ### Projects
