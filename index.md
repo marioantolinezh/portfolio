@@ -1,10 +1,14 @@
-## Welcome to GitHub Pages
+### Mario Antolinez Herrera
+## Telecommunication Tecnologies Engineering Undergrad. Student
 
-You can use the [editor on GitHub](https://github.com/marioantolinezh/portfolio.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+You can use the [editor on GitHub](https://github.com/marioantolinezh/portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Projects
+## 1. [ML for Cardiac Rearest ...](https://github.com/marioantolinezh)
+The aim of this project carried on in the Bioelectric Phenomena
 
-### Markdown
+## 2. [Building an EEG to leverage atention ...](https://github.com/marioantolinezh)
+I participated in a group Senior Capstone Project in which we designed and implemented a portable and low-cost EEG which aimed leveraging the signals comming from the brain (in particular the Alpha Frequency Band) to perform analysis on the rate of change of attention of the user as we had observed from a Literature Research. 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
