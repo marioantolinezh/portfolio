@@ -17,24 +17,3 @@ The result was [...]
 ## 1. [Leveraging EEG signals to determine atention](https://github.com/marioantolinezh/leveragin-EEG-signals-to-determine-atention)
 I participated in a group Senior Capstone Project in which we designed and built a portable and low-cost electroencephalogram -based on an Arduino- which aimed leveraging the signals comming from the brain (in particular the Alpha Frequency Band) to perform analysis on the rate of change of attention of the user as we had observed from a Literature Research, consisting on building several filters to obtain the desired frequency band on which we performed differential measurements. 
 
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/marioantolinezh/portfolio.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
