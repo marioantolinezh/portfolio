@@ -6,7 +6,7 @@ In an aim to contribute to the progress and welfare of society, the crop of know
 
 
 ### Projects
-## 4. [Implementating Quantum Bayesian Neural Networks](https://github.com/marioantolinezh/)
+## 4. [Implementing Quantum Bayesian Neural Networks](https://github.com/marioantolinezh/)
 The final project for the Quantum Computing Course was designing an implementation for any of the course topics. The group was to multi-disciplinary in order to work on the different (mathematica, physical, computer-science and engineering) aproach of the problem. We chose to implement a Bayesian Neurlal Network to explore the potential of Quantum Machine Learning techinques.
 
 ## 3. [Designing a Quantum Random Number Generator](https://github.com/marioantolinezh/QRNG)
