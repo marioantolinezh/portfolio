@@ -6,8 +6,11 @@ In an aim to contribute to the progress and welfare of society, the crop of know
 
 
 ### Projects
+## 4. [Implementating Quantum Bayesian Neural Networks](https://github.com/marioantolinezh/)
+The final project for the Quantum Computing Course was designing an implementation for any of the course topics. The group was to multi-disciplinary in order to work on the different (mathematica, physical, computer-science and engineering) aproach of the problem. We chose to implement a Bayesian Neurlal Network to explore the potential of Quantum Machine Learning techinques.
+
 ## 3. [Designing a Quantum Random Number Generator](https://github.com/marioantolinezh/QRNG)
-As part of the subject Data Privacy group project we decided to build a True Random Number Geberator based making use of Quantum Physics uncertain outcomes based on IMB's Quantum Lab which we used togeather with Qiskit and Python. In the project we also performed statistical test that could proof the advantage of QRNG over other random numbers generators such as random() or os.urandom() libraries, which are both Pseudo-Random Number Generators although as they relay on mathematical complex functions although the second one is considered a True RNG as it uses undeterministic masurements -such as CPU noise- as seed values. 
+As part of the subject Data Privacy group project we decided to build a True Random Number Geberator based making use of Quantum Physics uncertain outcomes based on IMB's Quantum Lab which we used togeather with Qiskit and Python. In the project we also performed statistical test that could proof the advantage of QRNG over other random numbers generators such as random() or os.urandom() libraries, which are both Pseudo-Random Number Generators as both relay on mathematical complex functions although the second one is considered a True RNG as it uses undeterministic masurements -such as CPU noise- as seed values. 
 
 ## 2. [ML for Cardiac Rearest Prediction](https://github.com/marioantolinezh/Cardiac-Rearrests-Prediction-Using-HRV-and-ML-Algorithms)
 The aim of this project carried on in the Bioelectric Phenomena Graduate course was to investigate the accuracy of various Machine Learning techniques to predict Cardiac Rearests based on Heart Rate Variability parameters over real provided datasets. 
