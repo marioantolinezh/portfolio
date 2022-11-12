@@ -5,15 +5,15 @@
 In an aim to contribute to the progress and welfare of society, the crop of knowledge and the yield of quality services.  
 
 ### Working Experience
-## [2. Cybersecurity Internship at Seresco, 2022]
+## 2. Cybersecurity Internship at Seresco, 2022
 After comming from the US I decided to work in Spain for some months, and I got the opportunity to work in a company from my city, Oviedo, which is offers IT services and consulting, Seresco. I was with the Cybersecurity group and my responsibilities were to analyse the characteristics and  vulnerabilities of a small OT (Operations Technologies, or Industry-oriented IT) simulated environment, which was formed by different PLCs and some other network components. This gave me the opportunity to get to know the dynamics of a working team and to learn how companies work from inside. 
 
-## [1. Research assistant in a university project, 2021]
+## 1. Research assistant in a university project, 2021
 In the time I was studing in the US, at CWRU, I had the opportunity to start working with [PhD Kenneth Loparo](https://en.wikipedia.org/wiki/Kenneth_A._Loparo) and another professor in a project that pursued correlating SpO2 variation with Heart Rate variability and activity by using Machine Learning techniques and algorithms. We mainly worked with Matlab and various databases from real patients. This was to me a great opportunity to dive in the investigation working environments, which I had not the opportunity to get to know until that time. We continued working when I got back, but after not seeing progress in our initial hypothesis we stopped. 
 
 
 ### Projects
-## 5. [TFG, Una teoría cuántica de la luz, 2022]
+## 5. TFG, Una teoría cuántica de la luz, 2022 (currently)
 Actualmente estoy trabajando en el Trabajo de Fin de Grado, que he decidido hacer en el área de la teoría cuántica de la luz. El fin es generar unos estados coherentes de la luz en el vacío (Estados de Fock) mediante simulaciones con Matlab.
 
 ## 4. [Implementing Quantum Bayesian Neural Networks, 2022](https://github.com/marioantolinezh/)
